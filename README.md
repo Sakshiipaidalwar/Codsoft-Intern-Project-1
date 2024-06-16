@@ -1,8 +1,11 @@
-# Codsoft-Intern-Project-1
-Use the Titanic dataset to build a model that predicts whether a passenger on the Titanic survived or not.
+# Codsoft-Intern-Project
+A CODESOFT is a IT company that provides internship in various Positions among them i am currently doing Machine Learning(ML) internship and they believe in Practical knowledge..
+
+
 
 # TITANIC SURVIVAL PREDICTION :
 
+Use the Titanic dataset to build a model that predicts whether a passenger on the Titanic survived or not.
 This project aims to predict the survival of passengers on the Titanic using machine learning techniques. 
 The dataset used for this project is the famous Titanic dataset, which contains information about the passengers, such as their age, gender, ticket class, fare, cabin, and whether or not they survived.
 
